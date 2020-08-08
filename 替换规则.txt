@@ -1,0 +1,4 @@
+https://cdn.jsdelivr.net/gh/{你的github用户名}/{仓库名称}/{具体路径}
+
+本图床地址：
+https://cdn.jsdelivr.net/gh/jimodeniuren/tuchuang/
